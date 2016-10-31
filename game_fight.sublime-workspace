@@ -1,0 +1,382 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"us",
+				"use"
+			],
+			[
+				"out",
+				"output_list"
+			],
+			[
+				"eac",
+				"each_line"
+			],
+			[
+				"std",
+				"std_output"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"cal",
+				"callback"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"quer",
+				"query_str"
+			],
+			[
+				"qu",
+				"query"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"mu",
+				"module_name"
+			],
+			[
+				"mo",
+				"module_name"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"get",
+				"getattr"
+			],
+			[
+				"ori",
+				"ori_stderr"
+			],
+			[
+				"w",
+				"write"
+			],
+			[
+				"ori_",
+				"ori_setInterval"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"ret",
+				"return"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.py",
+			"settings":
+			{
+				"buffer_size": 80,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "#coding=utf-8"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "packagecon",
+		"selected_items":
+		[
+			[
+				"packagecon",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 174.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"print(sys.version)",
+			"print('\\n'.join(dir(os)))",
+			"print('\\n'.join(dir(os))",
+			"print(os.version)",
+			"print(sys.version)",
+			"import sys",
+			"print(os.version)",
+			"print os.version",
+			"import urllib2",
+			"import os",
+			"import urllib2",
+			"import urllib2,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')",
+			"print({}.copy())",
+			"print copy({})",
+			"print {}.copy()",
+			"print(dir(types))",
+			"print dir(types)",
+			"import types"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/huangzhiyuan/Projects/github/nodejs_demo/node_modules/htmlencode/test/htmlencode.js",
+		"/Users/huangzhiyuan/Projects/github/nodejs_demo/app.js",
+		"/Users/huangzhiyuan/Projects/github/nodejs_demo/main.py",
+		"/Users/huangzhiyuan/Projects/github/nodejs_demo/python.js",
+		"/Users/huangzhiyuan/Projects/nodejs_demo/routes/login.js",
+		"/Users/huangzhiyuan/Projects/nodejs_demo/routes/index.js",
+		"/Users/huangzhiyuan/Projects/nodejs_demo/views/index.jade",
+		"/Users/huangzhiyuan/Projects/nodejs_demo/config/users.js",
+		"/Users/huangzhiyuan/Projects/nodejs_demo/main.js",
+		"/Users/huangzhiyuan/Projects/nodejs_demo/routes/api.js",
+		"/Users/huangzhiyuan/Projects/nodejs_demo/app.js",
+		"/Users/huangzhiyuan/Projects/nodejs_demo/test.html",
+		"/Users/huangzhiyuan/Projects/nodejs_demo/views/login.jade",
+		"/Users/huangzhiyuan/Projects/nodejs_demo/config/login.js",
+		"/Users/huangzhiyuan/Projects/nodejs_demo/json/login.js",
+		"/Users/huangzhiyuan/Library/Application Support/Sublime Text 3/Packages/User/NodeJS.sublime-build",
+		"/Users/huangzhiyuan/Projects/nodejs_demo/routes/users.js",
+		"/Users/huangzhiyuan/Projects/nodejs/package.json",
+		"/Users/huangzhiyuan/Projects/test/test.html",
+		"/Users/huangzhiyuan/Projects/nodejs_demo/node_modules/express-session/README.md",
+		"/Users/huangzhiyuan/Desktop/readme_mysql.txt",
+		"/Users/huangzhiyuan/Projects/sinaapp_gamegg/2/index.wsgi"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			"/Users/huangzhiyuan/Projects/nodejs_demo/routes"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Conten",
+			"\t",
+			"req.session",
+			"old",
+			"' ",
+			"\"\n",
+			"store",
+			"DEFAULT_FILE_STORAGE",
+			"post",
+			"    "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"  ",
+			"\t"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 80,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								41,
+								41
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#coding=utf-8",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 317.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 136.0
+	},
+	"pinned_build_system": "",
+	"project": "game_fight.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"htmle",
+				"node_modules/htmlencode/test/htmlencode.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 440.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 206.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
